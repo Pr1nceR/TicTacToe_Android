@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/drawable/round_back_dark_blue.xml" value="0.2890625" />
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/drawable/round_back_purple.xml" value="0.2890625" />
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/drawable/round_black_blue1000.xml" value="0.26481481481481484" />
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/drawable/round_border.xml" value="0.2890625" />
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/layout/activity_add_players.xml" value="0.25" />
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/LOCAL F/Programming_Review/TicTacToe/app/src/main/res/layout/win_dialog.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
