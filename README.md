@@ -4,5 +4,5 @@ take turns marking the spaces in a three-by-three grid with X or O.
 The player who succeeds in placng three of their marks in a horizontal,vertical
 or diagonal row is the winner
 
-![](ss/screen1.jpg)
-![](ss/screen2.jpg)
+![](ScreenShots/screen1.jpg)
+![](ScreenShots/screen2.jpg)
